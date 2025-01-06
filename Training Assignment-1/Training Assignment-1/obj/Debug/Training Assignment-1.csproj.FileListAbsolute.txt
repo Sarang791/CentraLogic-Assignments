@@ -1,0 +1,7 @@
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\bin\Debug\Training Assignment-1.exe.config
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\bin\Debug\Training Assignment-1.exe
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\bin\Debug\Training Assignment-1.pdb
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\obj\Debug\Training Assignment-1.csproj.AssemblyReference.cache
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\obj\Debug\Training Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\obj\Debug\Training Assignment-1.exe
+C:\Users\SarangMore\source\repos\Training Assignment-1\Training Assignment-1\obj\Debug\Training Assignment-1.pdb
